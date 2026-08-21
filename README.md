@@ -25,8 +25,7 @@ imagen renderizada como la única fuente de verdad.
 
 El proyecto se encuentra en desarrollo activo. Este repositorio es un
 **escaparate técnico**: contiene documentación pública y material visual, pero
-no contiene el código fuente ni los detalles de implementación del motor. El
-núcleo de UNION se mantiene en un repositorio privado.
+no contiene el código fuente ni los detalles de implementación del motor.
 
 Consulta [la arquitectura pública](docs/ARCHITECTURE.md) para conocer el flujo
 general del sistema.
@@ -46,7 +45,7 @@ the system's only source of truth.
 
 This is a **technical showcase repository**. It contains public documentation
 and visual material, but no engine source code or private implementation
-details. UNION's core is maintained in a private repository.
+details.
 
 See the [public architecture overview](docs/ARCHITECTURE.md) for the general
 system flow.
