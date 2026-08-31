@@ -6,9 +6,9 @@ structures in real time.**
 [Portfolio (ES)](https://corvo01.com/es/proyectos/union/) ·
 [Portfolio (EN)](https://corvo01.com/en/work/union/)
 
-https://github.com/user-attachments/assets/ad49e8c7-2242-4e96-83c9-7f645f0980fe
-
-*FractalCreator — real-time GPU deformation and recursive morphing.*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/57c2e177-81f2-4448-9508-6cdc842f2171" alt="UNION fractal editor in motion" width="800" />
+</p>
 
 ## Español
 
