@@ -6,7 +6,9 @@ structures in real time.**
 [Portfolio (ES)](https://corvo01.com/es/proyectos/union/) ·
 [Portfolio (EN)](https://corvo01.com/en/work/union/)
 
-![UNION real-time fractal interface](https://corvo01.com/assets/images/union/Imagen-del-proyecto.png)
+https://github.com/user-attachments/assets/ad49e8c7-2242-4e96-83c9-7f645f0980fe
+
+*FractalCreator — real-time GPU deformation and recursive morphing.*
 
 ## Español
 
@@ -29,12 +31,6 @@ no contiene el código fuente ni los detalles de implementación del motor.
 
 Consulta [la arquitectura pública](docs/ARCHITECTURE.md) para conocer el flujo
 general del sistema.
-
-### Galería
-
-| Exploración | Deformación | Morfología |
-| --- | --- | --- |
-| ![Exploración fractal](https://corvo01.com/assets/images/union/capture_144410.png) | ![Deformación fractal](https://corvo01.com/assets/images/union/capture_144459.png) | ![Morfología fractal](https://corvo01.com/assets/images/union/capture_144414.png) |
 
 ## English
 
